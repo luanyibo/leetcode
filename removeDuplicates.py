@@ -13,7 +13,7 @@
 
 __author__ = 'Luan Yi Bo'
 
-class test5(object):
+class Solution(object):
     def removeDuplicates(self, nums):
         """
         :type nums: List[int]
