@@ -7,3 +7,4 @@ Good luck, lyb!
 2. maxProfit       : 计算股票最大利润
 3. containsDuplicate : 是否有重复元素
 4. singleNumber    ：单个，所有两个中找出一个的
+5. moveZeroes      : 把0排在最后
