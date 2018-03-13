@@ -30,4 +30,4 @@ class Solution:
             else:
                 i += 1
 
-        [nums.append(0) for j in range(0,zero)]
+        [nums.append(0) for j in range(0, zero)]
